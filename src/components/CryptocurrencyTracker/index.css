@@ -1,0 +1,7 @@
+.app-container {
+  display: flex;
+  background-color: black;
+  display: flex;
+
+  min-height: 100vh;
+}

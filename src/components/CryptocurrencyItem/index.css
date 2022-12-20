@@ -1,0 +1,26 @@
+.currencyDetailsContainer {
+  display: flex;
+  justify-content: space-between;
+
+  width: 100%;
+}
+.name-logo-container {
+  display: flex;
+  align-items: center;
+}
+.logo {
+  height: 20px;
+  width: 20px;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+.value-container {
+  display: flex;
+  align-items: center;
+}
+.name {
+  font-family: 'Roboto';
+  font-size: 12px;
+  color: #ffffff;
+  margin-right: 10px;
+}
